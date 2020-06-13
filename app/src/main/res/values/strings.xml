@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Start">Start</string>
+    <string name="WelcomeMessage">Welcome to Quiz App\nPress Start Button To Begin</string>
+    <string name="Q1Label">Question 1/5</string>
+    <string name="Q2Label">Question 2/5</string>
+    <string name="Q3Label">Question 3/5</string>
+    <string name="Q4Label">Question 4/5</string>
+    <string name="Q5Label">Question 5/5</string>
+    <string name="Result">Result</string>
+
+    <string name="PreviousButton">&lt;&#160;&#160;&#160;&#160;&#160;&#160;Previous</string>
+    <string name="NextButton">Next&#160;&#160;&#160;&#160;&#160;&#160;&gt;</string>
+
+    <string name="Q1">In x86 Assembly\nThe instruction MOV AX, 1234H is an example of</string>
+    <string name="A11">&#160;&#160;&#160;&#160;Register addressing mode</string>
+    <string name="A12">&#160;&#160;&#160;&#160;Direct addressing mode</string>
+    <string name="A13">&#160;&#160;&#160;&#160;Immediate addressing mode</string>
+    <string name="A14">&#160;&#160;&#160;&#160;Based indexed addressing mode</string>
+
+    <string name="Q2">In x86 Assembly\nThe possible instructions among the following are</string>
+    <string name="A21">&#160;&#160;&#160;&#160;MOV AX, [BX]</string>
+    <string name="A22">&#160;&#160;&#160;&#160;MOV AL, BX</string>
+    <string name="A23">&#160;&#160;&#160;&#160;MOV [SI], [DI]</string>
+    <string name="A24">&#160;&#160;&#160;&#160;MOV AX, 5555H</string>
+
+
+    <string name="Q3">In x86 Assembly\nThe instruction that subtracts 1 from the contents of the specified register/memory location is</string>
+    <string name="Answer">Answer</string>
+
+    <string name="Q4">In x86 Assembly\nWhich of the following will subtract 1 from register DX</string>
+    <string name="A41">&#160;&#160;&#160;&#160;DEC DX</string>
+    <string name="A42">&#160;&#160;&#160;&#160;MOV DX, 1</string>
+    <string name="A43">&#160;&#160;&#160;&#160;SUB DX, 1</string>
+    <string name="A44">&#160;&#160;&#160;&#160;ADD DX, -1</string>
+
+    <string name="Q5">Number of the times the instruction sequence below will loop before coming out of loop is\n\nMOV AL, 00h\nA1: INC AL\nJNZ A1</string>
+    <string name="A51">&#160;&#160;&#160;&#160;00</string>
+    <string name="A52">&#160;&#160;&#160;&#160;01</string>
+    <string name="A53">&#160;&#160;&#160;&#160;255</string>
+    <string name="A54">&#160;&#160;&#160;&#160;256</string>
+
+    <string name="Submit">Submit</string>
+    <string name="SubmitMessage">Press Submit button to see the result</string>
+
+    <string name="CongratsMessage">Congrats!</string>
+    <string name="SorryMessage">Sorry</string>
+    <string name="Passed">You passed</string>
+    <string name="NotPassed">You didn\'t pass</string>
+
+    <string name="RetakeButton">Retake</string>
+
+</resources>
